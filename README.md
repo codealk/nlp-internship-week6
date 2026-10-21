@@ -1,0 +1,2 @@
+# Week 6: End-to-End NLP Analytics Pipeline
+This is the final culmination project for the Yuva Data Analytics Internship. It integrates Data Preprocessing, TF-IDF Classification, NER extraction, and Topic Summarization into a single unified script.
